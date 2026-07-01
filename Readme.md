@@ -38,9 +38,9 @@ The repository is continuously updated as I learn new Playwright concepts and bu
 - Allure Reporting
 - Record & Play
   
-### Learn Python Playwright
+### Playwright with Python - Learning Repository
 
-### Tech Stack
+### 🛠 Technologies Covered
 - Pytest
 - Playwright Topics( Sync API)
 - Allure Reports
@@ -76,7 +76,7 @@ The repository is continuously updated as I learn new Playwright concepts and bu
 These headings provide a structured overview of the topics covered in the document related to Playwright Python.
 
 
-### Structure
+### 📂 Project Structure
 - Code Examples
 
 ![Screenshot 2023-09-05 at 12 26 20 PM](https://github.com/PramodDutta/LearnPyPlaywright/assets/1409610/24090e83-57a6-46c0-86ad-ce8489ce276e)
@@ -128,7 +128,7 @@ Playwright/
 │── screenshots/
 │── requirements.txt
 │── README.md
-
+```
 ---
 
 ## ⚙️ Installation
@@ -197,3 +197,21 @@ This project supports:
 - Jenkins Integration
 - Docker Support
 - AI-powered Test Automation
+
+
+---
+
+## 👨‍💻 Author
+
+**Likhith D Gowda**
+
+Python QA Automation Engineer
+
+📍 Bengaluru, India
+
+📧 likhithlikhi17@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/likhith-gowda-370091180/
+
+⭐ If you found this repository useful, don't forget to Star it.
