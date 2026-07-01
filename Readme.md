@@ -1,3 +1,43 @@
+# 🎭 Playwright with Python - Learning Repository
+
+## 📖 Project Overview
+
+This repository contains my complete Playwright learning journey using Python. It includes hands-on examples, Playwright concepts, UI automation scripts, API testing, Pytest integration, Allure reports, screenshots, and practice exercises.
+
+The repository is continuously updated as I learn new Playwright concepts and build automation projects.
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- Playwright
+- Pytest
+- Allure Reports
+- HTML Reports
+- REST API Testing
+- Git & GitHub
+- PyCharm
+
+---
+
+## ✨ Features
+
+- Playwright Basics
+- Python Fundamentals
+- UI Automation
+- API Testing
+- Assertions
+- Locators
+- XPath & CSS Selectors
+- Screenshots
+- Trace Viewer
+- Fixtures
+- Web Tables
+- Shadow DOM
+- Allure Reporting
+- Record & Play
+  
 ### Learn Python Playwright
 
 ### Tech Stack
@@ -74,3 +114,86 @@ pip install -r requirements.txt
 ### PDF Notes
 
 ![image](https://github.com/PramodDutta/LearnPyPlaywright/assets/1409610/784108f8-5984-41e4-a35f-10a4242eace3)
+
+---
+
+## 📂 Folder Structure
+
+```text
+Playwright/
+│── code/
+│── assets/
+│── allure-report/
+│── allure-results/
+│── screenshots/
+│── requirements.txt
+│── README.md
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Likhi17/Playwright.git
+```
+
+Go to the project folder
+
+```bash
+cd Playwright
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ How to Run
+
+Run all Playwright tests
+
+```bash
+pytest
+```
+
+Generate Allure Report
+
+```bash
+allure serve allure-results
+```
+
+Generate HTML Report
+
+```bash
+pytest --html=report.html
+```
+
+---
+
+## 📊 Reports
+
+This project supports:
+
+- ✅ Allure Reports
+- ✅ HTML Reports
+- ✅ Pytest Reports
+- ✅ Screenshots on Test Failure
+
+---
+
+## 🎯 Future Enhancements
+
+- Implement Page Object Model (POM)
+- Hybrid Automation Framework
+- Data-Driven Testing
+- Cross-Browser Execution
+- Parallel Test Execution
+- GitHub Actions CI/CD
+- Jenkins Integration
+- Docker Support
+- AI-powered Test Automation
