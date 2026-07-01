@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9c4d8a-382e-4ff0-9efd-b8e6024af554" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/01_basics/test_vwologin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/01_basics/test_vwologin2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/01_basics/test_vwologin3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/01_basics/test_vwologin4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/00_basics/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/00_basics/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/00_basics/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/01_xpath/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/03_Projects/test_Projects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/04_basics2/test_checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/04_basics2/test_checkbox_aria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/04_basics2/test_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/04_basics2/test_fileupload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/04_basics2/test_mousehoverclick.py" afterDir="false" />
+    <list default="true" id="ae9c4d8a-382e-4ff0-9efd-b8e6024af554" name="Changes" comment="Playwright">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Likhi17&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Likhi17/Playwright.git&quot;,
+    &quot;accountId&quot;: &quot;f09a1b0a-905e-4780-9c37-2e67095a63ae&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -57,32 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab001.test_vwo_login (1).executor": "Run",
-    "Python tests.Python tests for test_Lab001.test_vwo_login.executor": "Run",
-    "Python tests.Python tests for test_Lab002.test_vwo_login.executor": "Run",
-    "Python tests.Python tests for test_Lab002.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_Lab003.test_vwo_login.executor": "Run",
-    "Python tests.Python tests for test_Lab003.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_Lab004.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_Lab005.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_Projects.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_checkbox.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_checkbox_aria.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_download.test_dowload_file.executor": "Run",
-    "Python tests.Python tests for test_fileupload.test_keyboard_click.executor": "Run",
-    "Python tests.Python tests for test_mousehoverclick.test_keyboard_click.executor": "Run",
-    "Python tests.Python tests for test_vwologin.test_vwo_login.executor": "Run",
-    "Python tests.Python tests for test_vwologin2.test_vwo_login.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.test_vwologin.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/likhi/PyPlaywrightLearning/pythonProject/code/04_basics2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab001.test_vwo_login (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab001.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Projects.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkbox.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkbox_aria.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_download.test_dowload_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fileupload.test_keyboard_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mousehoverclick.test_keyboard_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwologin.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwologin2.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/likhi/PyPlaywrightLearning/pythonProject/code/04_basics2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject\code\04_basics2" />
@@ -90,12 +78,13 @@
       <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject\code\02_locators" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject" />
       <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject\code\02_locators\00_basics" />
       <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject\code\02_locators" />
       <recent name="C:\Users\likhi\PyPlaywrightLearning\pythonProject\code\01_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_download.test_dowload_file">
+  <component name="RunManager" selected="Python tests.Python tests for test_checkbox.test_vwo_login_negative">
     <configuration name="Python tests for test_checkbox_aria.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -180,11 +169,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_checkbox.test_vwo_login_negative" />
         <item itemvalue="Python tests.Python tests for test_download.test_dowload_file" />
         <item itemvalue="Python tests.Python tests for test_fileupload.test_keyboard_click" />
         <item itemvalue="Python tests.Python tests for test_mousehoverclick.test_keyboard_click" />
         <item itemvalue="Python tests.Python tests for test_checkbox_aria.test_vwo_login_negative" />
-        <item itemvalue="Python tests.Python tests for test_checkbox.test_vwo_login_negative" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +193,20 @@
       <option name="presentableId" value="Default" />
       <updated>1765895002978</updated>
     </task>
+    <task id="LOCAL-00001" summary="Playwright">
+      <option name="closed" value="true" />
+      <created>1774124196782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774124196782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Playwright" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playwright" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
